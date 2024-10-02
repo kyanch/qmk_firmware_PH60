@@ -23,6 +23,12 @@
             ["GP1", "GP6", "GP5", "GP4", "GP3", "GP2", "GP0"]
         ]
     },
+    "mouse_key": {
+        "delay": 1,
+        "interval": 1,
+        "time_to_max": 0,
+        "max_speed": 50
+    },
     "processor": "RP2040",
     "url": "",
     "usb": {

@@ -1,0 +1,10 @@
+#define ENCODER_MAP_KEY_DELAY 0
+#define MK_3_SPEED
+#define MK_C_OFFSET_UNMOD 40
+#define MK_C_INTERVAL_UNMOD 0
+#define MK_C_OFFSET_0 40
+#define MK_C_INTERVAL_0 0
+#define MK_C_OFFSET_1 40
+#define MK_C_INTERVAL_1 0
+#define MK_C_OFFSET_2 40
+#define MK_C_INTERVAL_2 0
